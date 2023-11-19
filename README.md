@@ -2,7 +2,7 @@
 - 👀 I’m interested in what's next
 - 🌱 I’m currently learning all over again
 - 💞️ I’m looking to collaborate on the greater good
-- 📫 How to reach me 10@1620.pw
+- 📫 How to reach me tenwest@pm.me
 
 <!---
 fullsizemalt/fullsizemalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
