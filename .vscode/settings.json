@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+    "workbench.preferredDarkColorTheme": "Solarized Dark",
+    "workbench.preferredHighContrastLightColorTheme": "Solarized Light",
+    "workbench.preferredLightColorTheme": "Default High Contrast Light",
+    "workbench.iconTheme": "material-icon-theme"
+    }
+}
